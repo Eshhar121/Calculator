@@ -67,7 +67,6 @@ function clickOnAction() {
             break;
     
         default:
-            alert("no operation found !");
             break;
     }
 
